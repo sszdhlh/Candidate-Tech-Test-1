@@ -64,3 +64,7 @@ The tool has been tested against various scenarios to ensure its accuracy and ro
 - **Empty Array**:
     - **Input**: []
     - **Expected Output**: []
+ 
+- **Single Element Sequence**:
+    - **Input**: [5]
+    - **Expected Output**: [5]
