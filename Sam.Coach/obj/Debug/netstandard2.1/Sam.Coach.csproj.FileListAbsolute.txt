@@ -8,3 +8,13 @@ C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstanda
 C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csproj.CoreCompileInputs.cache
 C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.dll
 C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.pdb
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.deps.json
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.dll
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.pdb
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csproj.AssemblyReference.cache
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.GeneratedMSBuildEditorConfig.editorconfig
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfoInputs.cache
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfo.cs
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csproj.CoreCompileInputs.cache
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.dll
+G:\Candidate Tech Test 1\Candidate-Tech-Test-1\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.pdb

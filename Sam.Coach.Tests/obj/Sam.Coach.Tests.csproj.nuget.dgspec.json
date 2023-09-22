@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach.Tests\\Sam.Coach.Tests.csproj": {}
+    "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach.Tests\\Sam.Coach.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach.Tests\\Sam.Coach.Tests.csproj": {
+    "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach.Tests\\Sam.Coach.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach.Tests\\Sam.Coach.Tests.csproj",
+        "projectUniqueName": "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach.Tests\\Sam.Coach.Tests.csproj",
         "projectName": "Sam.Coach.Tests",
-        "projectPath": "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach.Tests\\Sam.Coach.Tests.csproj",
+        "projectPath": "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach.Tests\\Sam.Coach.Tests.csproj",
         "packagesPath": "C:\\Users\\cicr9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach.Tests\\obj\\",
+        "outputPath": "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\C#_.net_component\\NuGetPackages"
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach\\Sam.Coach.csproj": {
-                "projectPath": "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach\\Sam.Coach.csproj"
+              "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach\\Sam.Coach.csproj": {
+                "projectPath": "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach\\Sam.Coach.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach\\Sam.Coach.csproj": {
+    "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach\\Sam.Coach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach\\Sam.Coach.csproj",
+        "projectUniqueName": "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach\\Sam.Coach.csproj",
         "projectName": "Sam.Coach",
-        "projectPath": "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach\\Sam.Coach.csproj",
+        "projectPath": "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach\\Sam.Coach.csproj",
         "packagesPath": "C:\\Users\\cicr9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cicr9\\Documents\\Candidate Tech Test 1\\Sam.Coach\\obj\\",
+        "outputPath": "G:\\Candidate Tech Test 1\\Candidate-Tech-Test-1\\Sam.Coach\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\C#_.net_component\\NuGetPackages"

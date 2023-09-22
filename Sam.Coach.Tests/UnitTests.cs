@@ -14,6 +14,8 @@ namespace Sam.Coach.Tests
         [InlineData(new[] { -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5 }, new[] { -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5 })]
         [InlineData(new[] { 5, 4, 3, 2, 1, 0, -1, -2, -3, -4, -5 }, new[] { 5 })]
         [InlineData(new int[] { }, new int[] { })]
+        [InlineData(new[] { 5 }, new[] { 5 })]
+
         // TODO: add more scenarios to ensure finder is working properly
         public async Task Can_Find(IEnumerable<int> data, IEnumerable<int> expected)
         {
