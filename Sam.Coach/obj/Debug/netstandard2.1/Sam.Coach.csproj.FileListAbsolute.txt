@@ -1,0 +1,10 @@
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.deps.json
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.dll
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.pdb
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csproj.AssemblyReference.cache
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfoInputs.cache
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfo.cs
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csproj.CoreCompileInputs.cache
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.dll
+C:\Users\cicr9\Documents\Candidate Tech Test 1 (4)\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.pdb
